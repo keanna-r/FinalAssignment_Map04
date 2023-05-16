@@ -1,0 +1,5 @@
+install.packages("maps")
+install.packages("viridis")
+install.packages("scales")
+install.packages("tidyverse")
+install.packages("readxl")
